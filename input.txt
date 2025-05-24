@@ -1,0 +1,3 @@
+n = 3
+feedback = x1 ^ x2 ^ x3
+complexity = x1 & x2 ^ x3
